@@ -35,6 +35,8 @@
 
 ![workflow_another](https://github.com/Liberaty/conf_hw_1/blob/main/img/workflow_2.png?raw=true)
 
+![workflow_on_kanban](https://github.com/Liberaty/conf_hw_1/blob/main/img/workflow_3.png?raw=true)
+
 **Что нужно сделать**
 
 1. Создайте задачу с типом bug, попытайтесь провести его по всему workflow до Done. 
