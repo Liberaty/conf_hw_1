@@ -39,11 +39,37 @@
 
 **Что нужно сделать**
 
-1. Создайте задачу с типом bug, попытайтесь провести его по всему workflow до Done. 
-2. Создайте задачу с типом epic, к ней привяжите несколько задач с типом task, проведите их по всему workflow до Done. 
+1. Создайте задачу с типом bug, попытайтесь провести его по всему workflow до Done.
+
+***Ответ:***
+
+![1.1.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.1.png?raw=true)
+
+2. Создайте задачу с типом epic, к ней привяжите несколько задач с типом task, проведите их по всему workflow до Done.
+
+***Ответ:***
+
+![1.2.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.2.png?raw=true)
+
 3. При проведении обеих задач по статусам используйте kanban. 
 4. Верните задачи в статус Open.
+
+***Ответ:***
+
+![1.4.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.4.png?raw=true)
+
 5. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
+
+***Ответ:***
+
+![1.5.1.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.5.1.png?raw=true)
+
+![1.5.2.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.5.2.png?raw=true)
+
+![1.5.3.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.5.3.png?raw=true)
+
+![1.5.4.png](https://github.com/Liberaty/conf_hw_1/blob/main/img/1.5.4.png?raw=true)
+
 6. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
 ***Ответ:*** [workflow_bugs](https://github.com/Liberaty/conf_hw_1/blob/main/xml/Bugs.xml) и [workflow_another](https://github.com/Liberaty/conf_hw_1/blob/main/xml/Another.xml)
